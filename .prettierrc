@@ -1,0 +1,13 @@
+{
+  "semi": true,
+  "overrides": [
+    {
+      "files": "*.ts,*.jsx",
+      "options": {
+        "semi": true,
+        "printWidth": 120,
+        "singleQuote": true
+      }
+    }
+  ]
+}
